@@ -1,0 +1,29 @@
+.galleryGrid {
+	margin: 5%;
+}
+
+.modal-body {
+	display: flex;
+	color: black;
+}
+
+.modal-left {
+	flex: 70%;
+}
+
+.modal-right {
+	flex: 30%;
+	font-size: 1.2em;
+}
+
+.modal-left img {
+	display: block;
+	margin: 0 auto;
+}
+
+
+.galleryGrid {
+	display: grid;
+  	grid-gap: 5vh;
+  	align-items: stretch;
+}

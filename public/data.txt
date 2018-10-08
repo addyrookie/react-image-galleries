@@ -1,0 +1,83 @@
+export default gallery = [
+   {
+      "photo":"1.png",
+      "source":"facebook.png",
+      "user_avatar": "https://picsum.photos/50/50/",
+      "timestamp":"Sat Oct 06 2018 14:28:30",
+      "likes":1500,
+      "comments":25,
+      "description":"A storybook is good"
+   },
+   {
+      "photo":"2.png",
+      "source":"instagram.png",
+      "user_avatar":"https://picsum.photos/50/50/",
+      "timestamp":"Sat Oct 06 2018 16:58:30",
+      "likes":4535,
+      "comments":48,
+      "description":"A summer of hope"
+   },
+   {
+      "photo":"3.png",
+      "source":"instagram.png",
+      "user_avatar":"https://picsum.photos/50/50/",
+      "timestamp":"Sat Oct 06 2018 12:45:30",
+      "likes":1804,
+      "comments":14,
+      "description":"Something"
+   },
+   {
+      "photo":"4.png",
+      "source":"facebook.png",
+      "user_avatar": "https://picsum.photos/50/50/",
+      "timestamp":"Sat Oct 06 2018 14:28:30",
+      "likes":1500,
+      "comments":25,
+      "description":"A storybook is good"
+   },
+   {
+      "photo":"5.png",
+      "source":"instagram.png",
+      "user_avatar":"https://picsum.photos/50/50/",
+      "timestamp":"Sat Oct 06 2018 16:58:30",
+      "likes":4535,
+      "comments":48,
+      "description":"A summer of hope"
+   },
+   {
+      "photo":"6.png",
+      "source":"instagram.png",
+      "user_avatar":"https://picsum.photos/50/50/",
+      "timestamp":"Sat Oct 06 2018 12:45:30",
+      "likes":1804,
+      "comments":14,
+      "description":"Something"
+   },
+   {
+      "photo":"7.png",
+      "source":"facebook.png",
+      "user_avatar": "https://picsum.photos/50/50/",
+      "timestamp":"Sat Oct 06 2018 14:28:30",
+      "likes":1500,
+      "comments":25,
+      "description":"A storybook is good"
+   },
+   {
+      "photo":"8.png",
+      "source":"instagram.png",
+      "user_avatar":"https://picsum.photos/50/50/",
+      "timestamp":"Sat Oct 06 2018 16:58:30",
+      "likes":4535,
+      "comments":48,
+      "description":"A summer of hope"
+   },
+   {
+      "photo":"9.png",
+      "source":"instagram.png",
+      "user_avatar":"https://picsum.photos/50/50/",
+      "timestamp":"Sat Oct 06 2018 12:45:30",
+      "likes":1804,
+      "comments":14,
+      "description":"Something"
+   }
+]

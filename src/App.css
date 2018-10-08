@@ -30,3 +30,18 @@
     transform: rotate(360deg);
   }
 }
+
+
+.headerLinks {
+  background-color: white;
+  padding: 20px;
+}
+
+.headerLinks a {
+  text-decoration: none;
+  background-color: teal;
+  color: white;
+  padding: 20px;
+  border-left: 2px solid white;
+
+}
